@@ -120,7 +120,6 @@ public:
 	} 
 };
 
-
 static Complex w(int z, int p)
 { 
 	int m = L / p;
